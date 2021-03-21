@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+    /* color: white; */
+}
+
+body{
+    color: white;
+    /* Top Right Bottom Left */
+    padding: 90px 30px;
+}
+
+.profile-image img{
+    width: 150px;
+    height: auto;
+    display: inline;
+}
+
+.intro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    color: tomato;
+}
+
+.intro .basic-intro{
+    text-align: center;
+
+}
+.profile-image{
+    text-align: center;
+}
